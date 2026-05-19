@@ -1,5 +1,5 @@
 # ESP32 Gemini AI Assistant
-
+![Project Image](esp_32_gemini_ai_model.jpeg)
 An AI-integrated embedded system built using ESP32, microphone input, and Gemini API to process voice commands and trigger hardware responses.
 
 ## Features
